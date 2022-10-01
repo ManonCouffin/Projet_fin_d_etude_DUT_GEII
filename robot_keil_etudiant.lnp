@@ -1,0 +1,7 @@
+"STARTUP.obj",
+".\putchar_robot_09.OBJ",
+".\getkey_robot_09.OBJ",
+"test_keil_robot.obj",
+".\robotlib_2009.LIB" 
+TO "robot_keil_etudiant" 
+RAMSIZE(256) 
